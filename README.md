@@ -58,6 +58,6 @@ No server setup is required for this project as it is a static HTML/CSS/JS websi
 
 ## Deployment
 
--   [Live Site URL](https://fakeyeT.github.io/Omnifood-Landing-Page/)
+-   [Live Site URL](https://fakeyeT.github.io/Omnifood/)
 
 ---
